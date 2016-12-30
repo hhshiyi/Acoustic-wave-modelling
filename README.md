@@ -3,7 +3,9 @@ This is a c language program for acoustic wave forward modelling with PML and Op
 
 1. How to make
 cd to the current directory and enter
+
 make
 
 2. How to run
+
 ./modelling
